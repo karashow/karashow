@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karashow
-- 👀 I’m interested in algebraic cnumber theory and cryptography
-- 🌱 I’m currently learning mathematics
-- 📫 How to reach me settemari@live.it and/or karashow95@protonmail.com
+- 👀 I’m interested in cryptography and computational number theory
+- 🌱 I’m currently doing my PhD at Cispa
+- 📫 How to reach me settemari@live.it and/or eugenio.paracucchi@cispa.de
 
 <!---
 karashow/karashow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
