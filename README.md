@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karashow
-- 👀 I’m interested in cryptography and computational number theory
+- 👀 I’m interested in cryptography and cybersecurity
 - 🌱 I’m currently doing my PhD at Cispa
 - 📫 How to reach me settemari@live.it and/or eugenio.paracucchi@cispa.de
 
